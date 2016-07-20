@@ -1,0 +1,17 @@
+insert into lemondb.departments (text) values
+("G"),
+("GA"),
+("MA13"),
+("MA15"),
+("MA17"),
+("NC-17"),
+("NR"),
+("PG"),
+("PG-13"),
+("R"),
+("R/UR"),
+("UNK"),
+("UR"),
+("UR/R"),
+("VAR"),
+("X");
